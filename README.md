@@ -54,7 +54,7 @@ Each day focuses on one concept to strengthen my understanding of Python fundame
 
 ## Repository Structure
 
-Python-Daily-Practice/ │ └── Python/ ├── day1.py ├── day2.py ├── day3.py ├── day4.py ├── day5.py ├── day6.py ├── day7.py ├── day8.py ├── day9.py ├── day10.py ├── day11.py ├── day12.py ├── day13.py ├── day14.py ├── day15.py ├── day16.py ├── day17.py ├── day18.py ├── day19.py ├── day20.py ├── day21.py ├── day22.py ├── day23.py ├── day24.py ├── day25.py ├── day26.py ├── day27.py ├── day28.py ├── day29.py ├── day30.py ├── day31.py ├── day32.py └── day33.py
+Python-Daily-Practice/ │ └── Python/ ├── day01.py ├── day02.py ├── day03.py ├── day04.py ├── day05.py ├── day06.py ├── day07.py ├── day08.py ├── day09.py ├── day10.py ├── day11.py ├── day12.py ├── day13.py ├── day14.py ├── day15.py ├── day16.py ├── day17.py ├── day18.py ├── day19.py ├── day20.py ├── day21.py ├── day22.py ├── day23.py ├── day24.py ├── day25.py ├── day26.py ├── day27.py ├── day28.py ├── day29.py ├── day30.py ├── day31.py ├── day32.py └── day33.py
 
 Each file corresponds to the topic covered on that specific day.  
 For example:
