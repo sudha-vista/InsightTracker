@@ -9,7 +9,6 @@ Each day focuses on one concept to strengthen my understanding of Python fundame
 - **Completed:** Days 1–31 
 - **Duration:** October 7 – November 8, 2025  
 - **Objective:** Build a strong foundation in Python (Units 1–3)
-- This repository will include 80 Python programs, added daily as part of my continuous learning and practice.
 
 
 ---
@@ -76,7 +75,7 @@ For example:
 ## Next Steps
 - Continue uploading remaining Python programs (Days 34–37)  
 - Add beginner-level projects for revision and portfolio building
-
+- This repository will include 80 Python programs, added daily as part of my continuous learning and practice.
 ---
 
 ## Author
