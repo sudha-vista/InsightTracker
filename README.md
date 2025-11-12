@@ -1,89 +1,128 @@
-# Python Daily Practice (Day 1–31)
-
-This repository contains my daily Python practice programs completed as part of a structured learning plan.  
-Each day focuses on one concept to strengthen my understanding of Python fundamentals through consistent daily coding.
-
----
-
-## Progress Summary
-- **Completed:** Days 1–31 
-- **Duration:** October 7 – November 8, 2025  
-- **Objective:** Build a strong foundation in Python (Units 1–3)
+This repository contains my daily practice programs and exercises in Python, SQL, and Excel, completed as part of a structured learning plan.
+Each day focuses on one concept or command to strengthen my understanding of programming and data handling through consistent daily practice.
 
 
 ---
 
-## Daily Topics
+Progress Summary
 
-| Day | Date | Topic |
-|:--:|:--:|:--|
-| 01 | Oct 7 | Print Statements |
-| 02 | Oct 8 | Input and Output |
-| 03 | Oct 9 | Simple Calculations |
-| 04 | Oct 10 | Average and Product of Three Numbers |
-| 05 | Oct 11 | Basic Arithmetic Calculation |
-| 06 | Oct 12 | Swap Two Numbers |
-| 07 | Oct 13 | Simple ATM Program |
-| 08 | Oct 14 | Data Types |
-| 09 | Oct 15 | Smallest and Largest Number |
-| 10 | Oct 16 | Temperature Conversion |
-| 11 | Oct 17 | Type Conversion |
-| 12 | Oct 18 | Student Marks Calculator |
-| 13 | Oct 19 | Area and Perimeter |
-| 14 | Oct 20 | Grade and Percentage |
-| 15 | Oct 21 | Odd/Even and Positive/Negative |
-| 16 | Oct 22 | Leap Year and Century Check |
-| 17 | Oct 23 | Relational Operators |
-| 18 | Oct 24 | Logical Operators |
-| 19 | Oct 25 | Mini Calculator |
-| 20 | Oct 26 | Mathematical Expressions |
-| 21 | Oct 27 | Character Check and ASCII Value |
-| 22 | Oct 28 | Bill Generator |
-| 23 | Oct 29 | If–Else Statement |
-| 24 | Oct 30 | Discount Calculator |
-| 25 | Oct 31 | Nested If |
-| 26 | Nov 1 | If–Elif–Else |
-| 27 | Nov 2 | Choice-Based Calculator |
-| 28 | Nov 3 | While Loop – Sum of All Numbers |
-| 29 | Nov 4 | Even or Odd Using While Loop |
-| 30 | Nov 5 | Multiplication Table |
-| 31 | Nov 6 | Fibonacci Series |
-| 32 | Nov 7 | Reverse Number and Sum of Digits |
-| 33 | Nov 8 | Armstrong Number |
+Completed: Python (Days 1–31), SQL (Days 1–5), Excel (Days 1–5)
+
+Duration: October – November 2025
+
+Objective: Build a strong foundation in programming and data analysis
+
+
 
 ---
 
-## Repository Structure
+Daily Topics
 
-Python-Daily-Practice/ │ └── Python/ ├── day01.py ├── day02.py ├── day03.py ├── day04.py ├── day05.py ├── day06.py ├── day07.py ├── day08.py ├── day09.py ├── day10.py ├── day11.py ├── day12.py ├── day13.py ├── day14.py ├── day15.py ├── day16.py ├── day17.py ├── day18.py ├── day19.py ├── day20.py ├── day21.py ├── day22.py ├── day23.py ├── day24.py ├── day25.py ├── day26.py ├── day27.py ├── day28.py ├── day29.py ├── day30.py ├── day31.py ├── day32.py └── day33.py
+Python
 
-Each file corresponds to the topic covered on that specific day.  
+Day	Date	Topic
+
+01	Oct 7	Print Statements
+02	Oct 8	Input and Output
+03	Oct 9	Simple Calculations
+04	Oct 10	Average and Product of Three Numbers
+05	Oct 11	Basic Arithmetic Calculation
+06–33	Oct 12 – Nov 8	Conditionals, Loops, Functions, and Mini Programs
+
+
+SQL
+
+Day	Topic
+
+01	SELECT Statement
+02	ORDER BY Clause
+03	DISTINCT Keyword
+04	INSERT INTO Statement
+05	JOINS
+
+
+Excel
+
+Day	Topic
+
+01	Basic Excel Overview
+02	Functions and Formulas
+03	Data Sorting and Filtering
+04	Charts and Graphs
+05	Conditional Formatting
+
+
+
+---
+
+Repository Structure
+
+Python-daily-practice/
+│
+├── Python/
+│   ├── day01.py
+│   ├── day02.py
+│   └── ...
+│
+├── SQL/
+│   ├── Day01_SELECT.sql
+│   ├── Day02_OrderBy.sql
+│   └── ...
+│
+└── Excel/
+    ├── Day01_Basics.xlsx
+    ├── Day02_Formulas.xlsx
+    └── ...
+
+Each folder contains daily exercises related to the respective topic.
 For example:
-- `day10.py` → Temperature Conversion  
-- `day22.py` → Bill Generator  
-- `day33.py` → Armstrong Number  
+
+day10.py → Temperature Conversion
+
+Day02_OrderBy.sql → Using ORDER BY Clause
+
+Day03_Formulas.xlsx → Using Excel Functions
+
+
 
 ---
 
-## Tools Used
-- Python 3  
-- Google Colab 
-- GitHub for version control
+Tools Used
+
+Python 3
+
+MySQL / SQL Online Compiler
+
+Microsoft Excel / Google Sheets
+
+GitHub for version control
+
+
 
 ---
 
-## Next Steps
-- Continue uploading remaining Python programs (Days 34–37)  
-- Add beginner-level projects for revision and portfolio building
-- This repository will include 80 Python programs, added daily as part of my continuous learning and practice.
+Next Steps
+
+Continue daily uploads for SQL and Excel
+
+Add beginner-level data analysis projects
+
+Expand this repository to include 80+ programs and exercises
+
+
+
 ---
 
-## Author
-**[SUDARSHINI SRI V]**  
-B.Sc. Computer Science – Semester 1  
-[GitHub Profile](https://github.com/YourGitHubUsername)
+Author
+
+SUDARSHINI SRI V
+B.Sc. Computer Science – Semester 1
+GitHub Profile
+
 
 ---
 
-*“Learning every day, one program at a time.”*
+“Learning every day, one skill at a time.”
+
+
 
