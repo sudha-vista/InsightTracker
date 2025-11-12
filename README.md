@@ -1,4 +1,4 @@
-# Python Daily Practice (Day 1–33)
+# Python Daily Practice (Day 1–31)
 
 This repository contains my daily Python practice programs completed as part of a structured learning plan.  
 Each day focuses on one concept to strengthen my understanding of Python fundamentals through consistent daily coding.
@@ -6,7 +6,7 @@ Each day focuses on one concept to strengthen my understanding of Python fundame
 ---
 
 ## Progress Summary
-- **Completed:** Days 1–33  
+- **Completed:** Days 1–31 
 - **Duration:** October 7 – November 8, 2025  
 - **Objective:** Build a strong foundation in Python (Units 1–3)
 
@@ -16,15 +16,15 @@ Each day focuses on one concept to strengthen my understanding of Python fundame
 
 | Day | Date | Topic |
 |:--:|:--:|:--|
-| 1 | Oct 7 | Print Statements |
-| 2 | Oct 8 | Input and Output |
-| 3 | Oct 9 | Simple Calculations |
-| 4 | Oct 10 | Average and Product of Three Numbers |
-| 5 | Oct 11 | Basic Arithmetic Calculation |
-| 6 | Oct 12 | Swap Two Numbers |
-| 7 | Oct 13 | Simple ATM Program |
-| 8 | Oct 14 | Data Types |
-| 9 | Oct 15 | Smallest and Largest Number |
+| 01 | Oct 7 | Print Statements |
+| 02 | Oct 8 | Input and Output |
+| 03 | Oct 9 | Simple Calculations |
+| 04 | Oct 10 | Average and Product of Three Numbers |
+| 05 | Oct 11 | Basic Arithmetic Calculation |
+| 06 | Oct 12 | Swap Two Numbers |
+| 07 | Oct 13 | Simple ATM Program |
+| 08 | Oct 14 | Data Types |
+| 09 | Oct 15 | Smallest and Largest Number |
 | 10 | Oct 16 | Temperature Conversion |
 | 11 | Oct 17 | Type Conversion |
 | 12 | Oct 18 | Student Marks Calculator |
@@ -66,20 +66,19 @@ For example:
 
 ## Tools Used
 - Python 3  
-- Google Colab / VS Code  
+- Google Colab 
 - GitHub for version control
 
 ---
 
 ## Next Steps
 - Continue uploading remaining Python programs (Days 34–37)  
-- Begin SQL and Excel practice after Python completion  
 - Add beginner-level projects for revision and portfolio building
 
 ---
 
 ## Author
-**[Your Name]**  
+**[SUDARSHINI SRI V]**  
 B.Sc. Computer Science – Semester 1  
 [GitHub Profile](https://github.com/YourGitHubUsername)
 
