@@ -6,7 +6,7 @@ Each day focuses on one concept or command to strengthen my understanding of pro
 
 Progress Summary
 
-Completed: Python (Days 1–31), SQL (Days 1–5), Excel (Days 1–5)
+Completed: Python (Days 1–31), SQL (Days 1–5), Excel (Days 1–3)
 
 Duration: October – November 2025
 
@@ -46,12 +46,8 @@ Excel
 Day	Topic
 
 01	Basic Excel Overview
-02	Functions and Formulas
-03	Data Sorting and Filtering
-04	Charts and Graphs
-05	Conditional Formatting
-
-
+02	Sum and average
+03	Daily expenses 
 
 ---
 
@@ -71,7 +67,7 @@ Python-daily-practice/
 │
 └── Excel/
     ├── Day01_Basics.xlsx
-    ├── Day02_Formulas.xlsx
+    ├── Day02_Sum.xlsx
     └── ...
 
 Each folder contains daily exercises related to the respective topic.
