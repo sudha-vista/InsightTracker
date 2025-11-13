@@ -6,7 +6,7 @@ Each day focuses on one concept or command to strengthen my understanding of pro
 
 Progress Summary
 
-Completed: Python (Days 1–31), SQL (Days 1–5), Excel (Days 1–3)
+Completed: Python (Days 1–35), SQL (Days 1–5), Excel (Days 1–3)
 
 Duration: October – November 2025
 
@@ -27,7 +27,7 @@ Day	Date	Topic
 03	Oct 9	Simple Calculations
 04	Oct 10	Average and Product of Three Numbers
 05	Oct 11	Basic Arithmetic Calculation
-06–33	Oct 12 – Nov 8	Conditionals, Loops, Functions, and Mini Programs
+06–35	Oct 12 – Nov 8	Conditionals, Loops, Functions, and Mini Programs
 
 
 SQL
